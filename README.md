@@ -6,7 +6,7 @@ It's useful to display the `VHost` (that otherwise would be empty) in `mod_statu
 
 
 
-## Requiriments
+## Requirements
 
 *  apache >= 2.4
 *  mod_vhost_alias
